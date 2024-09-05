@@ -8,7 +8,6 @@
 body {
     background-color: black;
 }
-
 header {
     width: 100%;
 }
@@ -229,4 +228,5 @@ button:hover{
         transform: translateY(0);
       
     }
+    
 }
